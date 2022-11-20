@@ -1,0 +1,35 @@
+.container-home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--color-grey-4);
+  width: 100vw;
+  height: 100vh;
+}
+
+.aside-info {
+  width: 350px;
+  margin-right: 50px;
+  width: 350px;
+  height: 350px;
+}
+
+.aside-info > img {
+  margin-right: 227px;
+}
+
+.aside-info > h2 {
+  color: white;
+  font-family: "Nunito", sans-serif;
+  margin: 30px 0;
+  text-align: start;
+}
+
+.aside-info > p {
+  color: white;
+  text-align: start;
+}
+
+.aside-info > button {
+  margin: 30px 130px 0 0;
+}
