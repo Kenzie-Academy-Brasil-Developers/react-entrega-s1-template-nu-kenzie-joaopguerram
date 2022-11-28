@@ -6,6 +6,7 @@
   border: 1px solid var(--color-primary);
   border-radius: 8px;
   padding: 13px 20px;
+  cursor: pointer;
 }
 
 .btn-primary:hover {
@@ -14,12 +15,13 @@
 }
 
 .btn-secondary {
-  width: 60px;
+  width: 100px;
   height: 40px;
   background-color: var(--color-grey-2);
   color: var(--color-grey-4);
   border: 1px solid var(--color-grey-2);
   border-radius: 8px;
+  cursor: pointer;
 }
 
 .btn-secondary:hover {
